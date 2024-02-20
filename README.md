@@ -12,12 +12,12 @@
 - 🌿 Cultivating my skills in the vast garden of web technologies.
 - 💡 Eagerly seeking opportunities to unite and collaborate to turn ideas into reality.
 <br />
-<h3 align="left"> 🌐 Socials:</h3>
+<h2 align="left"> 🌐 Socials:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/laxmibist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxmibist" height="30" width="40" /></a>
 </p>
 <br />
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h2 align="left">🛠 Languages and Tools:</h2>
 <p> <a style="text-decoration: none; href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
@@ -36,10 +36,10 @@
 
 
 <br />
-<h3 align="left"> 🏆 Trophies</h3>
+<h2 align="left"> 🏆 Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmibist" alt="laxmibist" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left"> 📊 GitHub Stats</h3>
+<h2 align="left"> 📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmibist&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -47,7 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=laxmibist&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<h3 align="left"> 🔥 GitHub Streak</h3>
+<h2 align="left"> 🔥 GitHub Streak</h2>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxmibist&" alt="GitHub Streak" />
 </p>
