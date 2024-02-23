@@ -37,8 +37,9 @@
 
 <br />
 <h2 align="left"> 🏆 Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laxmibist" alt="laxmibist" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=LaxmiBist&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
 <h2 align="left"> 📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmibist&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
