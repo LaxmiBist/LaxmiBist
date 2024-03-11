@@ -32,7 +32,16 @@
   <a style="text-decoration: none; href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&nbsp;
   <a style="text-decoration: none; href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&nbsp;
    <a style="text-decoration: none; href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;
- <a style="text-decoration: none; href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;</p> 
+ <a style="text-decoration: none; href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp; <a style="text-decoration: none; href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
+  </a>&nbsp;
+  <a style="text-decoration: none; href="https://material-ui.com/" target="_blank" rel="noreferrer">
+    <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="40" height="40"/>
+  </a>&nbsp;
+  <a style="text-decoration: none; href="https://styled-components.com/" target="_blank" rel="noreferrer">
+    <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/>
+  </a>&nbsp;
+  </p> 
 
 
 <br />
