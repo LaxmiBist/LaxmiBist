@@ -38,9 +38,6 @@
   <a style="text-decoration: none; href="https://material-ui.com/" target="_blank" rel="noreferrer">
     <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="40" height="40"/>
   </a>&nbsp;
-  <a style="text-decoration: none; href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/>
-  </a>&nbsp;
   </p> 
 
 
