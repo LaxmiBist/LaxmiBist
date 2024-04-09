@@ -10,7 +10,6 @@
 - 📫 Reach out to me at laxmibist009@gmail.com
 - 🚀 Embarking on a web development journey with a thirst for knowledge.
 - 🌿 Cultivating my skills in the vast garden of web technologies.
-- 💡 Eagerly seeking opportunities to unite and collaborate to turn ideas into reality.
 <br />
 <h2 align="left"> 🌐 Socials:</h2>
 <p align="left">
